@@ -1,0 +1,86 @@
+application/sdp sdp
+application/smil smi smil
+application/vnd.rn-realmedia rm
+application/vnd.stardivision.calc sdc
+application/vnd.stardivision.calc sdc
+application/vnd.stardivision.calc sdc
+application/vnd.stardivision.calc sdc
+application/vnd.stardivision.draw sda
+application/vnd.stardivision.draw sda
+application/vnd.stardivision.draw sda
+application/vnd.stardivision.draw sda
+application/vnd.stardivision.impress sdd sdp
+application/vnd.stardivision.impress sdd sdp
+application/vnd.stardivision.impress sdd sdp
+application/vnd.stardivision.impress sdd sdp
+application/vnd.stardivision.math smf
+application/vnd.stardivision.math smf
+application/vnd.stardivision.math smf
+application/vnd.stardivision.math smf
+application/vnd.stardivision.writer-global sgl
+application/vnd.stardivision.writer-global sgl
+application/vnd.stardivision.writer-global sgl
+application/vnd.stardivision.writer-global sgl
+application/vnd.stardivision.writer sdw vor
+application/vnd.stardivision.writer sdw vor
+application/vnd.stardivision.writer sdw vor
+application/vnd.stardivision.writer sdw vor
+application/vnd.sun.xml.calc sxc
+application/vnd.sun.xml.calc sxc
+application/vnd.sun.xml.calc sxc
+application/vnd.sun.xml.calc sxc
+application/vnd.sun.xml.calc.template stc
+application/vnd.sun.xml.calc.template stc
+application/vnd.sun.xml.calc.template stc
+application/vnd.sun.xml.calc.template stc
+application/vnd.sun.xml.draw sxd
+application/vnd.sun.xml.draw sxd
+application/vnd.sun.xml.draw sxd
+application/vnd.sun.xml.draw sxd
+application/vnd.sun.xml.draw.template std
+application/vnd.sun.xml.draw.template std
+application/vnd.sun.xml.draw.template std
+application/vnd.sun.xml.draw.template std
+application/vnd.sun.xml.impress sxi
+application/vnd.sun.xml.impress sxi
+application/vnd.sun.xml.impress sxi
+application/vnd.sun.xml.impress sxi
+application/vnd.sun.xml.impress.template sti
+application/vnd.sun.xml.impress.template sti
+application/vnd.sun.xml.impress.template sti
+application/vnd.sun.xml.impress.template sti
+application/vnd.sun.xml.math sxm
+application/vnd.sun.xml.math sxm
+application/vnd.sun.xml.math sxm
+application/vnd.sun.xml.math sxm
+application/vnd.sun.xml.writer.global sxg
+application/vnd.sun.xml.writer.global sxg
+application/vnd.sun.xml.writer.global sxg
+application/vnd.sun.xml.writer.global sxg
+application/vnd.sun.xml.writer sxw
+application/vnd.sun.xml.writer sxw
+application/vnd.sun.xml.writer sxw
+application/vnd.sun.xml.writer sxw
+application/vnd.sun.xml.writer.template stw
+application/vnd.sun.xml.writer.template stw
+application/vnd.sun.xml.writer.template stw
+application/vnd.sun.xml.writer.template stw
+application/x-java-jnlp-file jnlp
+application/x-sdp sdp
+application/x-shockwave-flash2-preview rf swf
+audio/aiff aiff af
+audio/basic au
+audio/gsm gsm
+audio/midi midi
+audio/rmf rmf
+audio/wav wav
+audio/x-aiff aiff af
+audio/x-pn-aiff aiff af
+audio/x-pn-au au
+audio/x-pn-wav wav
+audio/x-pn-windows-acm wav
+audio/x-wav wav
+image/vnd.rn-realflash rf swf
+image/vnd.rn-realpix rp
+text/vnd.rn-realtext rt
+video/vnd.rn-realvideo rv

@@ -1,0 +1,18 @@
+[submodule ".liquidprompt"]
+	path = .liquidprompt
+	url = https://github.com/nojhan/liquidprompt.git
+[submodule ".vim/bundle/vim-fugitive"]
+	path = .vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule ".vim/bundle/vim-eunuch"]
+	path = .vim/bundle/vim-eunuch
+	url = https://github.com/tpope/vim-eunuch.git
+[submodule ".vim/bundle/vim-sensible"]
+	path = .vim/bundle/vim-sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule ".vim/bundle/vim-tex"]
+	path = .vim/bundle/vim-tex
+	url = https://github.com/lervag/vimtex.git
+[submodule ".vim/plugin/vim-json"]
+	path = .vim/plugin/vim-json
+	url = https://github.com/elzr/vim-json.git

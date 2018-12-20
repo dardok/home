@@ -1,0 +1,18 @@
+URxvt*background: Black
+URxvt*foreground: Wheat
+URxvt*cursorColor: Orchid
+URxvt*reverseVideo: false
+URxvt*scrollBar: true
+URxvt*reverseWrap: true
+URxvt*fullCursor: true
+URxvt*scrollTtyOutput: off
+URxvt*scrollKey: on
+URxvt*titleBar: false
+URxvt*saveLines: 4096
+URxvt*visualBell: false
+
+! URxvt*.transparent: true
+! URxvt*.shading: 0 to 99 darkens, 101 to 200 lightens
+! URxvt*.shading: 110
+
+URxvt*font: 9x15
